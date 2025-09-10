@@ -14,6 +14,5 @@ It emphasizes clarity, consistency, and portability across providers and model v
 
 ## Highlights
 - Multi‑model coverage with possible compatibility notes per prompt for smooth switching.  
-- Clear categories for fast navigation.  
-- Copy‑ready snippets with variables, guardrails, acceptance criteria, and output schemas.   
+- Clear categories for fast navigation.    
 

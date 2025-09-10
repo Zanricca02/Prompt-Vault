@@ -1,11 +1,8 @@
-# Prompt-Vault
-A curated library of ready-to-use AI prompts for multiple tasks and models, organized by use case and format for quick copy‑paste reuse
-
 <div align="center">
 
   <h1>🎛️ Prompt Vault</h1>
   <p>A curated, professional library of ready‑to‑use AI prompts for multiple tasks and models.</p>
-  <p><b>License:</b> MIT • <b>Contributions:</b> Welcome • <b>Models:</b> GPT · Claude · Llama</p>
+  <p><b>License:</b> MIT • <b>Contributions:</b> Welcome • <b>Models:</b> GPT · Claude · Grok · Llama · Gemini · Sonar · DeepSeek · Manus · Kimi</p>
 
 </div>
 

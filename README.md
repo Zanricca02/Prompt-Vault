@@ -12,4 +12,8 @@
 Prompt Atelier is a structured collection of high‑quality prompts for AI models, organized by use case and designed for quick copy‑paste reuse and easy adaptation.  
 It emphasizes clarity, consistency, and portability across providers and model versions.
 
+## Highlights
+- Multi‑model coverage with possible compatibility notes per prompt for smooth switching.  
+- Clear categories for fast navigation.  
+- Copy‑ready snippets with variables, guardrails, acceptance criteria, and output schemas.   
 
